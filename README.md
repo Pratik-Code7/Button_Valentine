@@ -1,16 +1,22 @@
-# React + Vite
+# Button Valentine 💖
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive Valentine-themed button animation built with HTML, CSS, and JavaScript.
 
-Currently, two official plugins are available:
+## Live Demo
+Check out the live version here: [Button Valentine Live](https://pratik-code7.github.io/Button_Valentine/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Animated Valentine button
+- Cute hover effects
+- Responsive design
+- Lightweight and easy to use
 
-## React Compiler
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/Pratik-Code7/Button_Valentine.git
